@@ -29,19 +29,19 @@ const social = [
   {
     name: "GitHub",
     icon: "github",
-    link: "https://github.com/alvaromaoc",
+    link: "https://github.com/alvaromanoso",
   },
   {
     name: "LinkedIn",
     icon: "linkedin",
-    link: "https://www.linkedin.com/in/alvaromanoso",
-  },
-  /* {
-    name: "X",
-    icon: "x",
-    link: "",
+    link: "https://linkedin.com/in/alvaromanoso",
   },
   {
+    name: "X",
+    icon: "x",
+    link: "https://x.com/alvaromanoso",
+  },
+  /* {
     name: "Email",
     icon: "email",
     link: "mailto:example@gmail.com",
